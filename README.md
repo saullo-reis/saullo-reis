@@ -10,7 +10,7 @@
 --->
 
 <h3>📊 &nbsp;Metrics</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saullo-reis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saullo-reis&layout=compact&theme=tokyonight)](https://github.com/saullo-reis)
 
 - 💻&nbsp;Linguagens:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
