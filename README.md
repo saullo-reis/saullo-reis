@@ -1,10 +1,16 @@
 <p>Olá, me chamo Saullo Reis</p>
 <p>- 📫 saulloreis01@hotmail.com</p>
-    
+
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saullo-reis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saullo-reis&layout=compact&theme=tokyonight)
+
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saullo-reis&theme=react&line_height=40&hide=css"/> </a>
+--->
+
 <h3>📊 &nbsp;Metrics</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saullo-reis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3> 🛠 &nbsp;Stack</h3>
 
 - 💻&nbsp;Linguagens:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
