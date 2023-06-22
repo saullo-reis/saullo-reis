@@ -1,6 +1,5 @@
-<p>Olá</p>
+<p>Olá, me chamo Saullo Reis</p>
 <p>- 📫 saulloreis01@hotmail.com</p>
-<p>- 📫 https://www.linkedin.com/in/saullo-reis/</p>
     
 <h3>📊 &nbsp;Metrics</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saullo-reis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
